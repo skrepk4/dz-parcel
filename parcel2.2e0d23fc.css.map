@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["parcel2.2e0d23fc.css","style.css"],"sourcesContent":["body {\n  text-align: center;\n  font-family: Arial, sans-serif;\n}\n/*# sourceMappingURL=parcel2.2e0d23fc.css.map */\n","body { \r\n    font-family: Arial, sans-serif; \r\n    text-align: center;\r\n}"],"names":[],"version":3,"file":"parcel2.2e0d23fc.css.map"}
